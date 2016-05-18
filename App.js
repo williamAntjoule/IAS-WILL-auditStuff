@@ -3,7 +3,7 @@ Ext.define('CustomApp', {
     componentCls: 'app',
     
     launch: function () {
-        console.log("test of rallyAppBuilder");
+        console.log("rallyAppBuilder started");
         this._loadData();  
     },
     
